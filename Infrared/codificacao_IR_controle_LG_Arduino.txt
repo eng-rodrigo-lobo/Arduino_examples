@@ -1,0 +1,20 @@
+Codificação mini Controle LG (para Arduino)
+
+1 --> 0xFFFF827D
+2 --> 0x42BD
+3 --> 0xFFFFC23D
+4 --> 0x22DD
+5 --> 0xFFFFA25D
+6 --> 0x629D
+7 --> 0xFFFFE21D
+8 --> 0x12ED
+9 --> 0xFFFF926D
+0 --> 0xFFFFD22D
+PWR  --> 0x7887
+UP   --> 0xFFFFE817
+DOWN --> 0x6897
+SRC  --> 0x33CC
+MENU --> 0x55AA
+NUMBER --> 0x748B
+BAND --> 0xFFFF9A65
+DISP. --> 0xFFFFC53A
